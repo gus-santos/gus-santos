@@ -1,5 +1,5 @@
 ### Hi, I'm Gus 👋
-## and I'm a full-stack developer
+# and I'm a full-stack developer
 
 - 🔭 I’m currently working on the trickiest parts of Let's Jam.
 - 🌱 I’m currently learning TypeScript. Looking for a few AZLyrics API to start a little project
