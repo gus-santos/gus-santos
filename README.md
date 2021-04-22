@@ -1,7 +1,7 @@
 ## Hi, I'm Gus 👋
 #### and I'm a full-stack developer
 
-- 🔭 I’m currently working on the trickiest parts of Let's Jam
+- 🔭 I’m currently working on the trickiest features of Let's Jam that weren't a part of my MVC, such as authentication and messaging
 - 🌱 I’m currently learning TypeScript. Looking into a few AZLyrics APIs to start a little project
 - 🤔 I’m looking for help with big O/theta. Always
 - 📫 How to reach me: e-mail me at santos.gus@protonmail.com
