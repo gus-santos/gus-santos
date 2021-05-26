@@ -1,12 +1,11 @@
 ## Hi, I'm Gus 👋
 #### and I'm a full-stack developer
 
-- 🔭  I’m currently working on the trickiest features of Let's Jam that weren't a part of my MVC
-- 🌱  I’m currently learning TypeScript. Looking into a few AZLyrics APIs to start a little project
+- 🔭  I’m currently working on a few of my UX pet peeves
 - 🤔  I’m looking for help with big O/theta. Always
-- 😄  Pronouns assume certain psychological and social traits from biological characteristics. I am not sure I fit this assumption
+- 😄  Pronouns assume certain psychological and social traits from biological characteristics. I don't think I agree with that
 - ⚡  Fun fact: I was a language teacher for most of my life, and coding was something I used to do for fun
-- 💬  Ask me about xmonad. I'm a big fan
+- 💬  Ask me about XMonad. I'm a big fan
 - 📫  Reach me at santos.gus@protonmail.com
 
 <!--
