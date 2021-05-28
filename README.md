@@ -1,8 +1,8 @@
 ## Hi, I'm Gus 👋
 #### and I'm a full-stack developer
 
-- 🔭  I’m currently working on a few of my UX pet peeves
-- 🤔  I’m looking for help with big O/theta. Always
+- 🔭  I’m currently working on a (hopefully) better mobile navigation menu. Check it out: https://github.com/gus-santos/thumb-nav
+- 🤔  I’m looking for help with big O/theta
 - 😄  Pronouns assume certain psychological and social traits from biological characteristics. I don't think I agree with that
 - ⚡  Fun fact: I was a language teacher for most of my life, and coding was something I used to do for fun
 - 💬  Ask me about XMonad. I'm a big fan
