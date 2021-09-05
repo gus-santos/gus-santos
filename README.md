@@ -1,11 +1,10 @@
 ## Hi, I'm Gus 👋
 #### and I'm a full-stack developer
 
-- 🔭  I’m currently working on a (hopefully) better mobile navigation menu. Check it out: https://github.com/gus-santos/thumb-nav
-- 🤔  I’m looking for help with big O/theta
-- 😄  Pronouns assume certain psychological and social traits from biological characteristics. I don't think I agree with that
+- 🔭  I’m currently working on a virtual budtender. Repo is private for now, but shoot me a line
+- 🤔  I’m looking for help with building a search engine from scratch (aren't we all)
+- 😄  Pronouns only make sense for people who have a gendered experience of life. That's not exactly the case with me
 - ⚡  Fun fact: I was a language teacher for most of my life, and coding was something I used to do for fun
-- 💬  Ask me about XMonad. I'm a big fan
 - 📫  Reach me at santos.gus@protonmail.com
 
 <!--
